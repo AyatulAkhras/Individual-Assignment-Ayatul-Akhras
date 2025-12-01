@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoanApp</string>
+    <string name="about_image">About page image</string>
+    <string name="about_name">Name: Ayatul Akhras Amani binti Mohd Asri</string>
+    <string name="about_matrics">Matrics Num: 2023414858</string>
+    <string name="about_course">Course: Information System Engineering</string>
+
+</resources>
